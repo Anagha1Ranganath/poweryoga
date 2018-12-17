@@ -378,3 +378,8 @@ nav a:hover {
     float:left;
 }
 
+footer nav{
+    float:right;
+    margin-top:0;
+ }
+
