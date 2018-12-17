@@ -351,7 +351,12 @@ nav a:hover {
     background-color:white;
 }
 
-.btn-primary{
-    top: 10%;
-    left: 70%;
+.container h1{
+    margin-top:50px;
 }
+
+.col-3 ul{
+    list-style:none;
+}
+
+
