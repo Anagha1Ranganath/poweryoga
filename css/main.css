@@ -365,3 +365,11 @@ nav a:hover {
     
 }
 
+.col-6 ul{
+    float:right;
+}
+
+.col-6 li{
+    list-style-type: none;
+}
+
