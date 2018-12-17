@@ -332,3 +332,26 @@ nav a:hover {
 .hero-text hr{
       background-color:black;
   }
+
+.fixed-top{
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.active{
+    background-color:goldenrod;
+}
+
+.nav-pills a{
+    color:black;
+}
+
+.nav-pills a:hover{
+    background-color:white;
+}
+
+.btn-primary{
+    top: 10%;
+    left: 70%;
+}
